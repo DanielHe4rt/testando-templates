@@ -2,7 +2,7 @@
 
 ## Descrição curta da atividade
 
-### Trello URL
+### Jira URL
 *  {URL do Infra Project}
 
 ### Mudanças
